@@ -2,7 +2,7 @@
 
 ---
 
-## app
+- [javascript/lint_tidy](https://slideck.io/github.com/oppara/slides/javascript/lint_tidy.md#/)
 
 ---
 
