@@ -74,18 +74,18 @@ $ jsl -process /path/to/target.js
 
 ---
 
-## 比較してみる
+## 独断と偏見で比較してみた
 
 
 | lint            | 設定 | 拡張性 | 将来度 |
 |-----------------|:----:|:------:|:------:|
-| JSLint          | △   |  △    |  ×    |
-| JSHint          | △   |  △    | △     |
+| JSLint          | △   |  ×    |  △    |
+| JSHint          | △   |  ○    | △     |
 | Closure Linter  | △   |  △    |  ○    |
 | ESLint          | △   |  ○    |  ○    |
 | JavaScript Lint | ○   |  ×    | ×     |
 
-独断と偏見
+
 
 ---
 
