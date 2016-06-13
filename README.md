@@ -1,8 +1,18 @@
 # slides
 
+[Wiki](https://github.com/oppara/slides/wiki)
+
 ---
 
-- [javascript/lint_tidy](https://slideck.io/github.com/oppara/slides/javascript/lint_tidy.md#/)
+## usage
+
+```
+$ revealgo --theme night /path/to/slide.md
+```
+
+```
+$ open https://slideck.io/github.com/oppara/slides/path/to/slide.md
+```
 
 ---
 
