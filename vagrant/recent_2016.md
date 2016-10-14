@@ -30,6 +30,19 @@ ___
 
 ```
 $ vagrant global-status
+id       name    provider   state   directory
+-----------------------------------------------------------------------------------------------
+a918be2  default virtualbox running /Users/oppara/sandbox/foo/repo
+9e379a7  default virtualbox aborted /Users/oppara/sandbox/bar/repo/vagrant
+59d8113  default virtualbox running /Users/oppara/sandbox/baz/repo/vagrant
+a33a1ec  default virtualbox running /Users/oppara/sandbox/hoge/repo/vagrant
+
+The above shows information about all known Vagrant environments
+on this machine. This data is cached and may not be completely
+up-to-date. To interact with any of the machines, you can go to
+that directory and run Vagrant, or you can use the ID directly
+with Vagrant commands from any directory. For example:
+"vagrant destroy 1a2b3c4d"
 ```
 
 キャッシュから削除
