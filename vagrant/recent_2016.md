@@ -97,7 +97,7 @@ ___
 https://github.com/cogitatio/vagrant-hostsupdater
 
 - ホストOSの hosts 設定をしてくれるプラグイン
-- WebPiece の Vagrantfile とか
+- WebPiece の Vagrantfile で使ってる
 
 ___
 
