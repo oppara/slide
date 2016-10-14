@@ -52,7 +52,7 @@ with Vagrant commands from any directory. For example:
 
 https://github.com/bkeepers/dotenv
 
-- 環境変数をディレクトリ毎に変更設定してくれる Gem
+- 環境変数を変更設定してくれる Gem
 - 元ネタは Ruby. 
 - PHP(Laravelでも使われている), Perl, Python 版あり 
 - E2 の Vagrantfile で使ってる
