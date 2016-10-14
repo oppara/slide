@@ -45,10 +45,6 @@ with Vagrant commands from any directory. For example:
 "vagrant destroy 1a2b3c4d"
 ```
 
-キャッシュから削除
-```
-$ vagrant global-status --prune
-```
 
 ---
 
