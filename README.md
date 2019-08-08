@@ -8,6 +8,8 @@
 
 ```
 $ revealgo --theme night /path/to/slide.md
+or 
+$ revealgo --theme white /path/to/slide.md
 ```
 
 ```
